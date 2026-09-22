@@ -1,0 +1,22 @@
+# Секреты, ключи и конфиденциальные данные
+.env
+*.pem
+*.key
+*.token
+
+# Временные файлы Python и виртуальное окружение
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Jupyter Notebook кэш
+.ipynb_checkpoints/
+
+# Локальные тяжелые данные и чекпоинты (не загружать в Git!)
+data/raw/*
+!data/raw/.gitkeep
+*.pth
+*.h5
+*.pt
