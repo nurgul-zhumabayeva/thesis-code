@@ -9,6 +9,8 @@ Master's thesis at **L.N. Gumilyov Eurasian National University**, Astana, Kazak
 
 **Related publication:**  [«МРТ-кескіндерінде ми ісіктерін анықтау және сегментациялауға арналған терең оқыту әдістерін салыстырмалы талдау](https://enu.kz/kz/page/science%2Fconference-collections%2Finternational-scientific-conference-of-students-and-young-researcher-gylym-jane-bilim-2026)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22896851.svg)](https://doi.org/10.5281/zenodo.22896851)
+
 ##  Installation
 
 ```bash
