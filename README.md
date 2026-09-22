@@ -1,7 +1,7 @@
 # Development of a brain tumor recognition system based on deep learning using MRI images
 Deep learning-based system for brain tumor detection and segmentation from MRI images.
 
-## 🔬 Research
+##  Research
 
 Master's thesis at **L.N. Gumilyov Eurasian National University**, Astana, Kazakhstan.
 
@@ -9,34 +9,34 @@ Master's thesis at **L.N. Gumilyov Eurasian National University**, Astana, Kazak
 
 **Related publication:**  [«МРТ-кескіндерінде ми ісіктерін анықтау және сегментациялауға арналған терең оқыту әдістерін салыстырмалы талдау](https://enu.kz/kz/page/science%2Fconference-collections%2Finternational-scientific-conference-of-students-and-young-researcher-gylym-jane-bilim-2026)
 
-## 🛠 Installation
+##  Installation
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## ▶️ Usage
+##  Usage
 
 ```bash
 python scripts/train.py
 ```
 
-## 📊 Dataset
+##  Dataset
 
 Brain MRI dataset used for tumor detection and segmentation.
 Dataset download and preparation instructions are provided in `data/raw/README.md`.
 
-## 📁 Structure
+##  Structure
 
 ```text
 data/ · notebooks/ · src/ · scripts/ · results/ · docs/ · tests/
 ```
 
-## 📚 Citation
+##  Citation
 
 See `CITATION.cff` for citation information.
 
-## 📄 License
+##  License
 
 MIT License.
 
